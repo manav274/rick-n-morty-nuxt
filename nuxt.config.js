@@ -14,6 +14,9 @@ export default {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css' }
+    ],
+    script:[
+      {src: 'https://use.fontawesome.com/89445e1d27.js'}
     ]
   },
   /*
